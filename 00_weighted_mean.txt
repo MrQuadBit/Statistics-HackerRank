@@ -1,0 +1,12 @@
+Weighted mean / average
+
+M_w = sum(x_i * w_i) / sum(w_i)
+eg
+
+Category | Weight | Student's Score
+Home work| 25 	  | 88
+Quiz	 | 30 	  | 71
+Test	 | 10	  | 97
+F_Examn  | 35	  | 90
+
+Final_score = (25*88) + (30*71) + (10*97) + (35*90) / 100

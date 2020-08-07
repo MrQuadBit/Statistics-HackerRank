@@ -1,0 +1,13 @@
+Standar deviation
+The avarage distance from the mean
+how far way is every single value from the mean
+SUM(abs|x_i - mean|) / N
+*Absulute is used because there could be negative numbers pero algbracally its so confuse so we can use the cariance to get the standar deviation
+
+Variance is the avarage squared distance to the mean
+σ^2 = SUM(x_i - mean)^2 / N
+*To regret that all the numbers getted are positives, we power to 2 o square them 
+
+ST.DE
+σ = √(SUM(x_i - mean)^2 / N)
+*And then we can get the square root to the real ST.DE

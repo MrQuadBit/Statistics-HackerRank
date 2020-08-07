@@ -1,0 +1,13 @@
+MEAN or Average
+12345 = 15 / 5
+μ = SUM(Num) / N
+
+MEDIAN (in the middle)
+SORT(Num)
+N / 2 to get the medium element 
+if is odd the quantity of number
+pick both middle number, add them and divide them by 2
+
+MODE (most common number or popular)
+SORT(Num)
+Get the most repetitive

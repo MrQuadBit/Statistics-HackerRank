@@ -1,0 +1,14 @@
+Quartiles and quartiles range
+Are the 3 point that split the data set into 4 equal groups
+Q1 = middle number between the smallest number and its median
+Q2 = is the median
+Q3 = middle number between the median and its largest number
+
+1-find the median (if is odd, do not include the median in either half)
+2-Fin the median of the first quarter and second quarter
+3-Define quartiles
+4-find Inter Quartile range (IQR = Q3 - Q1)
+
+https://en.wikipedia.org/wiki/Quartile#Method_1
+
+3 7 8 5 12 14 21 13 18

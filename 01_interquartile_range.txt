@@ -1,0 +1,1 @@
+A interquartile range is the difference between Q3 and Q1 in a quartile
