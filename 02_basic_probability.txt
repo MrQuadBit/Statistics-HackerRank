@@ -1,0 +1,57 @@
+S = Sample space
+a experiment is a event that can be repeated inifinitely times
+P(A) = Probability of the ocurrence of an event.
+P(A) = Number of favorable outcomes / Total number of outcomes
+
+Two Fundamental rules of probability
+P(A) is a number bewteen 0 >= P(A) <= 1 
+P(S) is equals to 1
+The gap between those is P(A)' = 1 - P(A)
+
+Probability of getting an odd number when rolling a six-sided fair die
+S = 6 sides = {1,2,3,4,5.6}
+A = event = {1,3,5}
+
+P(A) = Number of favorable outcomes / Total number of outcomes
+P(A) = A / S
+P(A) = 3 / 6 
+
+Compound events:
+is a combination of tho or more simple events
+
+-Mutually Exclusive 
+A and B are MuEx if they have no events in common (A ∩ B = Ø && P(A ∩ B = 0))
+
+-Collectively Exhaustive
+A and B are CoEx if their union covers all events in the sample space (A U B = S && P(A U B) = 10)
+
+Fundamental rule
+If 2 events (A and B) are disjoint, then the probability of their event is the sum of the probabilities of the 2 events.
+P(A or B) = P(A) + P(B)
+
+If outcome of the firts events has no impact on the second event, they are considered to bw independent (tossing a fair coin)
+
+Fundamental rule
+The multiplication rule says if two events (A and B) are independent, then teh probability of both events us the producto of the probability for each event.
+P(A and B) = P(A) x P(B)
+
+Probability of getting 1 head and 1 tail when 2 fair coins are tossed
+S = {H, T} x {H, T} = {(HH), (HT), (TH), (TT)}
+A = {(H, T), (T, H)}
+P(A) = A / S = 2 / 4
+
+Let A and B be two events such that P(A) = 2/5 and P(B) = 4/5, if the probability of the ocurrence of either A or B is 3/5 find the probability of the ocurrence of both A and B together (A n B)
+|A U B| = |A| + |B| - |A n B|
+=> P(A U B) = P(A) + P(B) - P(A n B)
+=> P(A n B) = P(A) + P(B) - P(A U B)
+=> P(A n B) = 2/5 + 4/5 - 3/5 = 3/5
+
+S = 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+A = 2, 3, 4, 5, 6, 7, 8, 9
+P(A) = A / S
+P(A) = 8 / 11
+
+S = 6 * 6 = 36
+A' = (4,6), (5,6), (6,6), (6,6), (6,5), (6,4) = 6
+A = S - A ' = 36 - 6 = 30
+P(A) = A / S = 30 / 36 = 5/6
